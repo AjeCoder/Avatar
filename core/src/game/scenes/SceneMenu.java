@@ -20,7 +20,7 @@ public class SceneMenu extends Scene
     {
         bf = new BitmapFont();
         bf.setColor(Color.CORAL);
-        Debug.print("!!!!!!!!!!!!!!!!!");
+        Debug.print("aaaaaaaaa");
     }
 
     @Override
