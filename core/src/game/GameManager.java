@@ -18,7 +18,7 @@ public class GameManager
 
     public static void onGameStart()
     {
-        currentScene = new game.scenes.SceneMenu();
+        currentScene = new game.scenes.GameScene();
     }
 
 
